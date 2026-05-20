@@ -9,3 +9,5 @@ function trackError(errorMessage) {
 }
 
 console.log("Tracking functions defined successfully!");
+
+console.log("Tracking ended!");
