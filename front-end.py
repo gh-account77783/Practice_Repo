@@ -7,3 +7,6 @@ for i in range(5):
 print("Front-end code executed successfully!")
 
 print("This is a simple front-end application in Python.")
+
+print("You can add more features to this code as needed.")
+print("End of front-end code.")
